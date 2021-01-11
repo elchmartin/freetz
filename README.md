@@ -1,3 +1,5 @@
+# Fork for myself, all courtesy to the original developer(s)
+
 # Welcome to Freetz
 
 This read-me file is just a stub. The Freetz project is currently in the process of migrating
